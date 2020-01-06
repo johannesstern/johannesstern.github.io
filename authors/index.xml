@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Johannes Stern</title>
+    <link>https://johannesstern.github.io/authors/</link>
+      <atom:link href="https://johannesstern.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://johannesstern.github.io/images/icon_hu0e0d552c77fd21bd5384ca38e313594f_10596_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://johannesstern.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>[Johannes Stern](/)</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Martin Fischer](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/martin_fischer/index.html)</title>
+      <link>https://johannesstern.github.io/authors/martin-fischerhttps/www.mcmp.philosophie.uni-muenchen.de/people/faculty/martin_fischer/index.html/</link>
+      <pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://johannesstern.github.io/authors/martin-fischerhttps/www.mcmp.philosophie.uni-muenchen.de/people/faculty/martin_fischer/index.html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Volker Halbach](http://users.ox.ac.uk/~sfop0114/)</title>
+      <link>https://johannesstern.github.io/authors/volker-halbachhttp/users.ox.ac.uk/~sfop0114/</link>
+      <pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://johannesstern.github.io/authors/volker-halbachhttp/users.ox.ac.uk/~sfop0114/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jönne Kriener</title>
+      <link>https://johannesstern.github.io/authors/jonne-kriener/</link>
+      <pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://johannesstern.github.io/authors/jonne-kriener/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Johannes Stern</title>
+      <link>https://johannesstern.github.io/authors/johannes-stern/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://johannesstern.github.io/authors/johannes-stern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://johannesstern.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://johannesstern.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am a Research Fellow at the &lt;a href=&#34;https://www.bristol.ac.uk/philosophy&#34;&gt;Department of Philosophy&lt;/a&gt; of the University of Bristol, where I have a permanent position.&lt;/p&gt;
+&lt;p&gt;I am also the Principal Investigator of the project &lt;a href=&#34;&#34;&gt;Truth and Semantics&lt;/a&gt; funded by an &lt;a href=&#34;&#34;&gt;ERC Starting Grant&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Much of my research&amp;hellip;&amp;hellip;&amp;hellip;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
