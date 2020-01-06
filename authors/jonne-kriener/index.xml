@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jönne Kriener | Johannes Stern</title>
-    <link>https://johannesstern.github.io/authors/jonne-kriener/</link>
-      <atom:link href="https://johannesstern.github.io/authors/jonne-kriener/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://johannesstern.netlify.com/authors/jonne-kriener/</link>
+      <atom:link href="https://johannesstern.netlify.com/authors/jonne-kriener/index.xml" rel="self" type="application/rss+xml" />
     <description>Jönne Kriener</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 26 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://johannesstern.github.io/images/icon_hu0e0d552c77fd21bd5384ca38e313594f_10596_512x512_fill_lanczos_center_2.png</url>
+      <url>https://johannesstern.netlify.com/images/icon_hu0e0d552c77fd21bd5384ca38e313594f_10596_512x512_fill_lanczos_center_2.png</url>
       <title>Jönne Kriener</title>
-      <link>https://johannesstern.github.io/authors/jonne-kriener/</link>
+      <link>https://johannesstern.netlify.com/authors/jonne-kriener/</link>
     </image>
     
     <item>
       <title>Axiomatizing Semantic Theories of Truth</title>
-      <link>https://johannesstern.github.io/publication/fischer-et-al-axiomatizing/</link>
+      <link>https://johannesstern.netlify.com/publication/fischer-et-al-axiomatizing/</link>
       <pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://johannesstern.github.io/publication/fischer-et-al-axiomatizing/</guid>
+      <guid>https://johannesstern.netlify.com/publication/fischer-et-al-axiomatizing/</guid>
       <description></description>
     </item>
     
