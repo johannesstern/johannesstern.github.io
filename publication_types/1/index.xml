@@ -1,32 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Johannes Stern</title>
-    <link>https://johannesstern.github.io/</link>
-      <atom:link href="https://johannesstern.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Johannes Stern</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <title>1 | Johannes Stern</title>
+    <link>https://johannesstern.github.io/publication_types/1/</link>
+      <atom:link href="https://johannesstern.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://johannesstern.github.io/images/icon_hu0e0d552c77fd21bd5384ca38e313594f_10596_512x512_fill_lanczos_center_2.png</url>
-      <title>Johannes Stern</title>
-      <link>https://johannesstern.github.io/</link>
+      <title>1</title>
+      <link>https://johannesstern.github.io/publication_types/1/</link>
     </image>
-    
-    <item>
-      <title>Epistemische Logik</title>
-      <link>https://johannesstern.github.io/publication/stern-2019-epistemischelogic/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://johannesstern.github.io/publication/stern-2019-epistemischelogic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Book Review of &#39;Miloš Adžić and Kosta Došen, eds, Gödel&#39;s Basic Logic Course at Notre Dame&#39;</title>
-      <link>https://johannesstern.github.io/publication/stern-2019-dialectica/</link>
-      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://johannesstern.github.io/publication/stern-2019-dialectica/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Supervaluation-Style Truth Without Supervaluations</title>
@@ -37,34 +21,10 @@
     </item>
     
     <item>
-      <title>Penrose New Argument and Paradox</title>
-      <link>https://johannesstern.github.io/publication/stern-2018-penrose/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://johannesstern.github.io/publication/stern-2018-penrose/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Proving that the Mind is Not a machine?</title>
       <link>https://johannesstern.github.io/publication/stern-2018-proving/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://johannesstern.github.io/publication/stern-2018-proving/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Note on McGee&#39;s ω-Inconsistency Result</title>
-      <link>https://johannesstern.github.io/publication/stern-2017-mcgee/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://johannesstern.github.io/publication/stern-2017-mcgee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Toward Predicate Approaches to Modality</title>
-      <link>https://johannesstern.github.io/publication/stern-2015-toward/</link>
-      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://johannesstern.github.io/publication/stern-2015-toward/</guid>
       <description></description>
     </item>
     
@@ -122,14 +82,6 @@
       <link>https://johannesstern.github.io/publication/stern-2014-montague/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
       <guid>https://johannesstern.github.io/publication/stern-2014-montague/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Truth about Predicates and Connectives</title>
-      <link>https://johannesstern.github.io/publication/stern-2014-truthaboutpredicates/</link>
-      <pubDate>Tue, 21 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://johannesstern.github.io/publication/stern-2014-truthaboutpredicates/</guid>
       <description></description>
     </item>
     

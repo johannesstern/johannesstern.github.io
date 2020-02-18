@@ -13,17 +13,33 @@
     </image>
     
     <item>
-      <title>6</title>
-      <link>https://johannesstern.github.io/publication_types/6/</link>
+      <title>3</title>
+      <link>https://johannesstern.github.io/publication_types/3/</link>
       <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://johannesstern.github.io/publication_types/6/</guid>
+      <guid>https://johannesstern.github.io/publication_types/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5</title>
+      <link>https://johannesstern.github.io/publication_types/5/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://johannesstern.github.io/publication_types/5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1</title>
+      <link>https://johannesstern.github.io/publication_types/1/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://johannesstern.github.io/publication_types/1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>9</title>
       <link>https://johannesstern.github.io/publication_types/9/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://johannesstern.github.io/publication_types/9/</guid>
       <description></description>
     </item>
@@ -31,24 +47,8 @@
     <item>
       <title>2</title>
       <link>https://johannesstern.github.io/publication_types/2/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://johannesstern.github.io/publication_types/2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>0</title>
-      <link>https://johannesstern.github.io/publication_types/0/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://johannesstern.github.io/publication_types/0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>5</title>
-      <link>https://johannesstern.github.io/publication_types/5/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://johannesstern.github.io/publication_types/5/</guid>
+      <guid>https://johannesstern.github.io/publication_types/2/</guid>
       <description></description>
     </item>
     
