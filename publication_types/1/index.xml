@@ -5,7 +5,7 @@
     <link>https://johannesstern.github.io/publication_types/1/</link>
       <atom:link href="https://johannesstern.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://johannesstern.github.io/images/icon_hu0e0d552c77fd21bd5384ca38e313594f_10596_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Supervaluation-Style Truth Without Supervaluations</title>
-      <link>https://johannesstern.github.io/publication/stern-2018-superval/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://johannesstern.github.io/publication/stern-2018-superval/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Proving that the Mind is Not a machine?</title>
       <link>https://johannesstern.github.io/publication/stern-2018-proving/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://johannesstern.github.io/publication/stern-2018-proving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supervaluation-Style Truth Without Supervaluations</title>
+      <link>https://johannesstern.github.io/publication/stern-2018-superval/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://johannesstern.github.io/publication/stern-2018-superval/</guid>
       <description></description>
     </item>
     
@@ -72,7 +72,7 @@
     <item>
       <title>Montague&#39;s Theorem and Modal Logic</title>
       <link>https://johannesstern.github.io/publication/stern-2014-montague/</link>
-      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://johannesstern.github.io/publication/stern-2014-montague/</guid>
       <description></description>
     </item>
