@@ -5,7 +5,7 @@
     <link>https://johannesstern.github.io/authors/</link>
       <atom:link href="https://johannesstern.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://johannesstern.github.io/images/icon_hu0e0d552c77fd21bd5384ca38e313594f_10596_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
@@ -13,26 +13,26 @@
     </image>
     
     <item>
-      <title>[Johannes Stern](/)</title>
-      <link></link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
-      <guid></guid>
+      <title>Johannes Stern</title>
+      <link>https://johannesstern.github.io/authors/johannes-stern/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://johannesstern.github.io/authors/johannes-stern/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>[Martin Fischer](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/martin_fischer/index.html)</title>
-      <link>https://johannesstern.github.io/authors/martin-fischerhttps/www.mcmp.philosophie.uni-muenchen.de/people/faculty/martin_fischer/index.html/</link>
-      <pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://johannesstern.github.io/authors/martin-fischerhttps/www.mcmp.philosophie.uni-muenchen.de/people/faculty/martin_fischer/index.html/</guid>
+      <title>Luca Castaldo</title>
+      <link>https://johannesstern.github.io/authors/luca-castaldo/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://johannesstern.github.io/authors/luca-castaldo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>[Volker Halbach](http://users.ox.ac.uk/~sfop0114/)</title>
-      <link>https://johannesstern.github.io/authors/volker-halbachhttp/users.ox.ac.uk/~sfop0114/</link>
-      <pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://johannesstern.github.io/authors/volker-halbachhttp/users.ox.ac.uk/~sfop0114/</guid>
+      <title>Carlo Nicolai</title>
+      <link>https://johannesstern.github.io/authors/carlo-nicolai/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://johannesstern.github.io/authors/carlo-nicolai/</guid>
       <description></description>
     </item>
     
@@ -45,10 +45,18 @@
     </item>
     
     <item>
-      <title>Johannes Stern</title>
-      <link>https://johannesstern.github.io/authors/johannes-stern/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://johannesstern.github.io/authors/johannes-stern/</guid>
+      <title>Martin Fischer</title>
+      <link>https://johannesstern.github.io/authors/martin-fischer/</link>
+      <pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://johannesstern.github.io/authors/martin-fischer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Volker Halbach</title>
+      <link>https://johannesstern.github.io/authors/volker-halbach/</link>
+      <pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://johannesstern.github.io/authors/volker-halbach/</guid>
       <description></description>
     </item>
     
