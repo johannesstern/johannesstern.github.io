@@ -275,7 +275,8 @@
 
       <div id="search-box">
         
-        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
 
@@ -440,6 +441,10 @@
     </div>
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
       
 
       
@@ -704,7 +709,7 @@
 
   
   <div class="article-style">
-    <p>We argue that Reinhardt's program has greater chances of success than suggested in the relevant literature.</p>
+    <p>We argue that Reinhardt&rsquo;s program has greater chances of success than suggested in the relevant literature.</p>
   </div>
   
 
@@ -1432,7 +1437,7 @@
 
   
   <div class="article-style">
-    <p>We explore the middle ground between the strong Kleene and the supervaluation scheme as used in Kripke's theory of truth.</p>
+    <p>We explore the middle ground between the strong Kleene and the supervaluation scheme as used in Kripke&rsquo;s theory of truth.</p>
   </div>
   
 
@@ -1720,7 +1725,7 @@
 
   
   <div class="article-style">
-    <p>In this note we show that McGee's ω-inconsistency result can be derived from Löb's theorem.</p>
+    <p>In this note we show that McGee&rsquo;s ω-inconsistency result can be derived from Löb&rsquo;s theorem.</p>
   </div>
   
 
@@ -2718,7 +2723,7 @@
 
   
   <div class="article-style">
-    <p>Taking Kevin Mulligan's &lsquo;The Truth Predicate vs. the Truth Connective. On taking connectives seriously.&rsquo; We discuss the distinction between sentential operators and sentential predicates.</p>
+    <p>Taking Kevin Mulligan&rsquo;s &lsquo;The Truth Predicate vs. the Truth Connective. On taking connectives seriously.&rsquo; We discuss the distinction between sentential operators and sentential predicates.</p>
   </div>
   
 
@@ -2967,11 +2972,46 @@
     
 
     
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
 
     
     
 
     
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
 
     
     
@@ -2981,7 +3021,6 @@
 
     
     
-
     
     
     
@@ -2989,12 +3028,12 @@
     
     
     
+      
     
     
     
     
-    
-    <script src="/js/academic.min.e5c8525332f417fe3589df9a6b25b6c4.js"></script>
+    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
 
     
 
