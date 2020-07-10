@@ -5,12 +5,20 @@
     <link>https://johannesstern.github.io/</link>
       <atom:link href="https://johannesstern.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Johannes Stern</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://johannesstern.github.io/images/icon_hu0e0d552c77fd21bd5384ca38e313594f_10596_512x512_fill_lanczos_center_2.png</url>
       <title>Johannes Stern</title>
       <link>https://johannesstern.github.io/</link>
     </image>
+    
+    <item>
+      <title>Belief, Truth, and Ways of Believing</title>
+      <link>https://johannesstern.github.io/publication/stern-2020/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://johannesstern.github.io/publication/stern-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>KF, PKF, and Reinhardt&#39;s Program</title>
