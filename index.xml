@@ -5,7 +5,7 @@
     <link>https://johannesstern.github.io/</link>
       <atom:link href="https://johannesstern.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Johannes Stern</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://johannesstern.github.io/images/icon_hu0e0d552c77fd21bd5384ca38e313594f_10596_512x512_fill_lanczos_center_2.png</url>
       <title>Johannes Stern</title>
@@ -13,34 +13,42 @@
     </image>
     
     <item>
-      <title>Semantic Singularities: Paradoxes of Reference, Predication and Truth. By Keith Simmons</title>
-      <link>https://johannesstern.github.io/publication/stern-2020br/</link>
-      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://johannesstern.github.io/publication/stern-2020br/</guid>
+      <title>KF, PKF, and Reinhardt&#39;s Program</title>
+      <link>https://johannesstern.github.io/publication/castaldostern-2020/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://johannesstern.github.io/publication/castaldostern-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Guide to the Unified Approach to Truth, Modality, and Paradox</title>
+      <link>https://johannesstern.github.io/publication/nicste-2020/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://johannesstern.github.io/publication/nicste-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Belief, Truth, and Ways of Believing</title>
       <link>https://johannesstern.github.io/publication/stern-2020/</link>
-      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://johannesstern.github.io/publication/stern-2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>KF, PKF, and Reinhardt&#39;s Program</title>
-      <link>https://johannesstern.github.io/publication/castaldostern-2020/</link>
+      <title>The Modal Logics of Kripke-Feferman Truth</title>
+      <link>https://johannesstern.github.io/publication/nicolaistern-2020/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://johannesstern.github.io/publication/castaldostern-2020/</guid>
+      <guid>https://johannesstern.github.io/publication/nicolaistern-2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The Modal Logics of Kripke-Feferman</title>
-      <link>https://johannesstern.github.io/publication/nicolaistern-2020/</link>
+      <title>Semantic Singularities: Paradoxes of Reference, Predication and Truth. By Keith Simmons</title>
+      <link>https://johannesstern.github.io/publication/stern-2020br/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://johannesstern.github.io/publication/nicolaistern-2020/</guid>
+      <guid>https://johannesstern.github.io/publication/stern-2020br/</guid>
       <description></description>
     </item>
     
@@ -142,18 +150,18 @@
     </item>
     
     <item>
-      <title>The Truth about Predicates and Connectives</title>
-      <link>https://johannesstern.github.io/publication/stern-2014-truthaboutpredicates/</link>
-      <pubDate>Sun, 26 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://johannesstern.github.io/publication/stern-2014-truthaboutpredicates/</guid>
+      <title>Montague&#39;s Theorem and Modal Logic</title>
+      <link>https://johannesstern.github.io/publication/stern-2014-montague/</link>
+      <pubDate>Mon, 27 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://johannesstern.github.io/publication/stern-2014-montague/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Montague&#39;s Theorem and Modal Logic</title>
-      <link>https://johannesstern.github.io/publication/stern-2014-montague/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://johannesstern.github.io/publication/stern-2014-montague/</guid>
+      <title>The Truth about Predicates and Connectives</title>
+      <link>https://johannesstern.github.io/publication/stern-2014-truthaboutpredicates/</link>
+      <pubDate>Sun, 26 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://johannesstern.github.io/publication/stern-2014-truthaboutpredicates/</guid>
       <description></description>
     </item>
     
