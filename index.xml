@@ -5,9 +5,9 @@
     <link>https://johannesstern.github.io/</link>
       <atom:link href="https://johannesstern.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Johannes Stern</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://johannesstern.github.io/images/icon_hu0e0d552c77fd21bd5384ca38e313594f_10596_512x512_fill_lanczos_center_2.png</url>
+      <url>https://johannesstern.github.io/media/icon_hu0e0d552c77fd21bd5384ca38e313594f_10596_512x512_fill_lanczos_center_3.png</url>
       <title>Johannes Stern</title>
       <link>https://johannesstern.github.io/</link>
     </image>
@@ -145,7 +145,7 @@
       <link>https://johannesstern.github.io/publication/stern-2014-modality-i/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
       <guid>https://johannesstern.github.io/publication/stern-2014-modality-i/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -170,6 +170,14 @@
       <link>https://johannesstern.github.io/publication/stern-2014-truthaboutpredicates/</link>
       <pubDate>Sun, 26 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://johannesstern.github.io/publication/stern-2014-truthaboutpredicates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://johannesstern.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://johannesstern.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     

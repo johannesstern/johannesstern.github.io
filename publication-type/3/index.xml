@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Johannes Stern</title>
+    <link>https://johannesstern.github.io/publication-type/3/</link>
+      <atom:link href="https://johannesstern.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://johannesstern.github.io/media/icon_hu0e0d552c77fd21bd5384ca38e313594f_10596_512x512_fill_lanczos_center_3.png</url>
+      <title>3</title>
+      <link>https://johannesstern.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>A Guide to the Unified Approach to Truth, Modality, and Paradox</title>
+      <link>https://johannesstern.github.io/publication/nicste-2020/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://johannesstern.github.io/publication/nicste-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Belief, Truth, and Ways of Believing</title>
+      <link>https://johannesstern.github.io/publication/stern-2020/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://johannesstern.github.io/publication/stern-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epistemische Logik</title>
+      <link>https://johannesstern.github.io/publication/stern-2019-epistemischelogic/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://johannesstern.github.io/publication/stern-2019-epistemischelogic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Penrose New Argument and Paradox</title>
+      <link>https://johannesstern.github.io/publication/stern-2018-penrose/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://johannesstern.github.io/publication/stern-2018-penrose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Truth about Predicates and Connectives</title>
+      <link>https://johannesstern.github.io/publication/stern-2014-truthaboutpredicates/</link>
+      <pubDate>Sun, 26 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://johannesstern.github.io/publication/stern-2014-truthaboutpredicates/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
