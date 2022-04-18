@@ -5,7 +5,7 @@
     <link>https://johannesstern.github.io/publication-type/1/</link>
       <atom:link href="https://johannesstern.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://johannesstern.github.io/media/icon_hu0e0d552c77fd21bd5384ca38e313594f_10596_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>KF, PKF, and Reinhardt&#39;s Program</title>
+      <link>https://johannesstern.github.io/publication/castaldostern-2020/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://johannesstern.github.io/publication/castaldostern-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Modal Logics of Kripke-Feferman Truth</title>
       <link>https://johannesstern.github.io/publication/nicolaistern-2020/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://johannesstern.github.io/publication/nicolaistern-2020/</guid>
       <description></description>
     </item>
